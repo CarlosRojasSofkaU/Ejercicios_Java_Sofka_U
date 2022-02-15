@@ -1,0 +1,40 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(æ‹ù·
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò„“ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ°èşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë‚àúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îşü—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¶ôø
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÿˆ£îÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ı¤Ö¥ûÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ÿæøî
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(º¼ã¼ûÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ı¤Ö¥ûÿÿÿÿ
+M	java:S106F"9Replace this use of System.out or System.err by a logger.(Å³­y
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(…î§À
+J
+java:S2864H"4Iterate over the "entrySet" instead of the "keySet".(Ôúã¯
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Š’Øà
+m
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Øõï’şÿÿÿÿ
+M	java:S106R"9Replace this use of System.out or System.err by a logger.(—îÏ,
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(¼–Âî
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(ËğÙŠ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¹è¡¼
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(‘á‘Èøÿÿÿÿ
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(éêµ´ûÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(³Äæ•ÿÿÿÿÿ
+M	java:S106~"9Replace this use of System.out or System.err by a logger.(ˆB
+K
+java:S1128"6Remove this unused import 'java.security.KeyRep.Type'.(¦àè5
+k	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İñí©øÿÿÿÿ
+2
+java:S1643k"Use a StringBuilder instead.(õ›Ñˆ
+2
+java:S1643y"Use a StringBuilder instead.(ğñé
+8
+java:S1643‡"Use a StringBuilder instead.(±¿ÉÏúÿÿÿÿ
+3
+java:S1643‰"Use a StringBuilder instead.(æ‰ãÅ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ‹ù·

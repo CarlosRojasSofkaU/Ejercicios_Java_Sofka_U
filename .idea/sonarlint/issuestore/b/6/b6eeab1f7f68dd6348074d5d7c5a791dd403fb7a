@@ -1,0 +1,37 @@
+
+r	java:S116"QRename this field "HOMBRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώªΤγωÿÿÿÿ8Η°™βο/
+q	java:S116"PRename this field "MUJER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έÿυ•ψÿÿÿÿ8Η°™βο/
+u	java:S116	"YRename this field "CIFRAS_DEL_DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ι“½ό8Θ°™βο/
+ƒ	java:S116
+"bRename this field "LETRAS_EN_EL_CASTELLANO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ζ­Τµϊÿÿÿÿ8Θ°™βο/
+v	java:S116"ZRename this field "MAYORIA_DE_EDAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τ³„¬8Θ°™βο/
+w	java:S116"VRename this field "MINIMA_EDAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(υ‰ξωÿÿÿÿ8Θ°™βο/
+r	java:S116"VRename this field "MAXIMA_EDAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τς‘°8Ι°™βο/
+u
+java:S3008"XRename this field "IMC_SOBREPESO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(η΄δΧ8Ι°™βο/
+w
+java:S3008"URename this field "IMC_NORMAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£οζωÿÿÿÿ8Ι°™βο/
+z
+java:S3008"XRename this field "IMC_BAJO_PESO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿξªΒϋÿÿÿÿ8Ι°™βο/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(όΈΤπ8α°™βο/
+T	java:S106;"9Replace this use of System.out or System.err by a logger.(µ­8β°™βο/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(Υηÿÿÿÿÿ8γ°™βο/
+K
+java:S2140w")Use "java.util.Random.nextInt()" instead.(ύ¬£ƒϋÿÿÿÿ8¨±™βο/
+F
+java:S2140{")Use "java.util.Random.nextInt()" instead.(Òςξ8«±™βο/
+r	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ώ©Κψÿÿÿÿ8Έ±™βο/
+9
+java:S1643r"Use a StringBuilder instead.(ΓÒ8Έ±™βο/
+v
+java:S1104"YMake IMC_SOBREPESO a static final constant or non-public and provide accessors if needed.(η΄δΧ8Έ±™βο/
+x
+java:S1104"VMake IMC_NORMAL a static final constant or non-public and provide accessors if needed.(£οζωÿÿÿÿ8Έ±™βο/
+{
+java:S1104"YMake IMC_BAJO_PESO a static final constant or non-public and provide accessors if needed.(ÿξªΒϋÿÿÿÿ8Έ±™βο/
+P
+java:S1444"3Make this "public static IMC_SOBREPESO" field final(η΄δΧ8Η±™βο/
+R
+java:S1444"0Make this "public static IMC_NORMAL" field final(£οζωÿÿÿÿ8Η±™βο/
+U
+java:S1444"3Make this "public static IMC_BAJO_PESO" field final(ÿξªΒϋÿÿÿÿ8Η±™βο/

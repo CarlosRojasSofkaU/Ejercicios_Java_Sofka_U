@@ -1,0 +1,31 @@
+
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8¹ˆÍõï/
+Q	java:S125"<This block of commented-out lines of code should be removed.(·Â”É
+Z
+java:S1128"=Remove this unused import 'fundamentoclases.ProcesarPersona'.(§×„¼8¼ˆÍõï/
+G
+java:S1128"*Remove this unused import 'impuestos.IVA'.(ó±Ê°8¼ˆÍõï/
+^
+java:S1128"ARemove this unused import 'menudegestion.GestionCinematografica'.(ÛíãÍ8½ˆÍõï/
+\
+java:S1128"?Remove this unused import 'objetoelectrodomestico.Controlador'.(éšÓŸ8½ˆÍõï/
+Y
+java:S1128"7Remove this unused import 'operadoresmatematicos.Area'.(ØÀ´ýÿÿÿÿ8½ˆÍõï/
+^
+java:S1128"ARemove this unused import 'operadoresmatematicos.LogicaNumerica'.(ÎžîÆ8¾ˆÍõï/
+b
+java:S1128"@Remove this unused import 'operadoresmatematicos.TipoDeNumeros'.(ÃÀ¨Œÿÿÿÿÿ8¿ˆÍõï/
+J
+java:S1128	"(Remove this unused import 'semana.Dias'.(Þ’é¨þÿÿÿÿ8¿ˆÍõï/
+M
+java:S1128
+"0Remove this unused import 'texto.procesarfrase'.(’Ð“8¿ˆÍõï/
+V
+java:S1128"4Remove this unused import 'semana.FechaYHoraActual'.(ä»‘ÿÿÿÿÿ8¿ˆÍõï/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¿ˆÍõï/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¿ˆÍõï/
+0
+java:S1220""Move this file to a named package.

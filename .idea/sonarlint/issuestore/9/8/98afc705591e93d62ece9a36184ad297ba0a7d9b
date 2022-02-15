@@ -1,0 +1,29 @@
+
+p
+java:S1450
+"ZRemove the "mayorNumero" field and declare it as a local variable in the relevant methods.(Ú°°‘
+|
+java:S1450"aRemove the "numeroInicioSaltos" field and declare it as a local variable in the relevant methods.(Àôíåøÿÿÿÿ
+s
+java:S1450"]Remove the "numeroPositivo" field and declare it as a local variable in the relevant methods.(Ã¢’Å
+v
+java:S1450"[Remove the "primerNumero" field and declare it as a local variable in the relevant methods.(õÔÔúÿÿÿÿ
+w
+java:S1450	"\Remove the "segundoNumero" field and declare it as a local variable in the relevant methods.(õõ€ºÿÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ğ¾ªµüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Íáô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹“€•ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¹˜ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹ŸÔ¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³¯ƒöúÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¶×Èé
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(•ûŒ¥
+N	java:S106("9Replace this use of System.out or System.err by a logger.(”àİê
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ê½à½
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ŞÓ·±øÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(†ˆÈÿÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Öõ¿ø
+]	java:S125A"<This block of commented-out lines of code should be removed.(Ãà§“ÿÿÿÿÿ8¬³Ã×ï/
+o
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÍÀ

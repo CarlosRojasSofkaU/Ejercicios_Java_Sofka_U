@@ -1,0 +1,12 @@
+
+i
+java:S3008"SRename this field "TASA_IVA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¶®£
+k
+java:S1450"URemove the "precio" field and declare it as a local variable in the relevant methods.(¾ÉŽ·
+q
+java:S1450"VRemove the "scanner" field and declare it as a local variable in the relevant methods.(²øÉìüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(š—§ ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Üýª¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§îž¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®‰³»

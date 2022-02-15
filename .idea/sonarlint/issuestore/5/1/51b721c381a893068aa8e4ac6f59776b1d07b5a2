@@ -1,0 +1,21 @@
+
+x
+java:S1450"VRemove the "scanner" field and declare it as a local variable in the relevant methods.(²øÉìüÿÿÿÿ8øÌ›âï/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÕÚî²ÿÿÿÿÿ8ıÌ›âï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ›ßó8†Í›âï/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(’òÖ%8†Í›âï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìÂ˜‡8‡Í›âï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨Æƒşÿÿÿÿ8ŠÍ›âï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÖüˆøÿÿÿÿ8‹Í›âï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı¢¦£ùÿÿÿÿ8ŒÍ›âï/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(‚ŠŠı8Í›âï/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ôÈŞùÿÿÿÿ8ÌÍ›âï/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¾ëÏ¡úÿÿÿÿ8ÍÍ›âï/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(—úùÀúÿÿÿÿ8ÍÍ›âï/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(–ÛÜÆ8ÍÍ›âï/
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(¤éR8ÎÍ›âï/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(œ—¬úÿÿÿÿ8ÎÍ›âï/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(îá”¾8ÎÍ›âï/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(¤°û‰8ÎÍ›âï/
+l	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ“ˆ=8ÏÍ›âï/
