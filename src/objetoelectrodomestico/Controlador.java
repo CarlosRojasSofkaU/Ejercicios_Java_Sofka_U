@@ -1,7 +1,7 @@
 package objetoelectrodomestico;
 
 public class Controlador {//Punto 17
-    public static void main(String[] args) {
+    public static void mostrarPunto17() {
         double precio_electrodomesticos=0;
         double precio_lavadoras=0;
         double precio_televisores=0;
@@ -27,8 +27,6 @@ public class Controlador {//Punto 17
             else{
                 precio_electrodomesticos += lista_electrodomesticos[i].precioFinal();
             }
-            System.out.println(lista_electrodomesticos[i].getColor());
-            System.out.println(lista_electrodomesticos[i].getConsumoEnergetico());
         }
         precio_absoluto = precio_electrodomesticos + precio_televisores + precio_lavadoras;
         System.out.println("El precio de las lavadoras es: "+precio_lavadoras+" Euros");

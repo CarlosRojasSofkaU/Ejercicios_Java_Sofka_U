@@ -1,5 +1,8 @@
+import entretenimiento.ControllerP18;
+import fundamentoclases.ProcesarPersona;
 import impuestos.IVA;
 import menudegestion.GestionCinematografica;
+import objetoelectrodomestico.Controlador;
 import operadoresmatematicos.Area;
 import operadoresmatematicos.LogicaNumerica;
 import operadoresmatematicos.TipoDeNumeros;
@@ -28,8 +31,10 @@ public class App {
         Punto14 = LogicaNumerica.mostrarNumerosEnSaltosDeDos(); //Punto 14
         System.out.println(Punto14);*/
         //GestionCinematografica.menuGestion(); //Punto 15
-        //Punto 16
-        //Punto 17
+        //ProcesarPersona.mostrarEjercicio(); //Punto16
+        //Controlador.mostrarPunto17(); //Punto17
+        ControllerP18.probarPunto18(); //Punto18
+
 
 
     }

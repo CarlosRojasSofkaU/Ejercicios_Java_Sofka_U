@@ -14,16 +14,16 @@ Para esto se definen las siguientes secciones:
 
 ## Configuración inicial
 
-Para poder iniciar con los ejercicios se debe ubicar en la carpeta Ejercicios Java, en esta se encontrarán una serie de archivos.
+Para poder iniciar con los ejercicios se debe ubicar en la carpeta Ejercicios Java, en esta se encontrarán una serie de carpetas que representan los paquetes para los ejercicios.
 
-Posteriormente en un IDE debemos abrir los siguientes archivos de Java en la carpeta src (App.java, objetoelectrodomestico/Controlador.java y fundamentoclases/ProcesarPersona)
+Posteriormente en un IDE debemos abrir el siguiente archivo de Java en la carpeta src (App.java)
 ![Muestra de inicialización de juego](img/Captura.PNG)
 
-Al correr estos códigos de cierta manera se podrá evidenciar cada uno de los ejercicios realizados
+Al correr este codigo de cierta manera se podrá evidenciar cada uno de los ejercicios realizados
 
 ## Indicaciones para correr los puntos
 
-El el archivo App.java se encontrarán los ejercicios desde el punto 1 hasta el punto 15, para correr cada uno de los puntos se debe hacer lo siguiente:
+El el archivo App.java se encontrarán los ejercicios desde el punto 1 hasta el punto 18, para correr cada uno de los puntos se debe hacer lo siguiente:
 
 Se debe descomentar cada sección de código (por cada llamado a una función hay un comentario que indica el número del punto).
 
@@ -31,9 +31,6 @@ Solo se debe llamar a un punto por ejecución de código, ya que la clase Scanne
 
 El punto 14 implica un bloque de códgo de 3 lineas, ya que retorna un valor.
 
-Por otro lado en el archivo fundamentoclases/ProcesarPersona.java se tiene el código que ejecuta el punto 16 (creación de las personas con sus datos)
-
-Además, el código que ejecuta el punto 17 se llama objetoelectrodomestico/Controlador. java (reación de los objetos electrodomesticos e impresión de precios dependiendo de la clase)
 
 
 ## Requerimientos
