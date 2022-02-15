@@ -28,6 +28,8 @@ public class App {
         Punto14 = LogicaNumerica.mostrarNumerosEnSaltosDeDos(); //Punto 14
         System.out.println(Punto14);*/
         //GestionCinematografica.menuGestion(); //Punto 15
+        //Punto 16
+        //Punto 17
 
 
     }

@@ -53,6 +53,7 @@ public class GestionCinematografica {
                 break;
             case 8:
                 System.out.println("SELECCIONÓ 8 - SALIENDO DEL MENU");
+                scanner.close();
                 break;
             default:
                 System.out.println("OPCION INCORRECTA");
