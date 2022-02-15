@@ -1,5 +1,7 @@
 package operadoresmatematicos;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class LogicaNumerica {//Clase que se encarga de realizar operaciones de lógica numérica
@@ -7,6 +9,7 @@ public class LogicaNumerica {//Clase que se encarga de realizar operaciones de l
     private static double segundoNumero;
     private static double mayorNumero;
     private static double numeroPositivo;
+    private static double numeroInicioSaltos;
     private static Scanner scanner;
     public static void mostrarNumMayor() {//Punto 1 y 2
         scanner = new Scanner(System.in);
@@ -38,4 +41,29 @@ public class LogicaNumerica {//Clase que se encarga de realizar operaciones de l
         scanner.close();
     }
 
+    public static List<Double> mostrarNumerosEnSaltosDeDos(){
+        numeroInicioSaltos=0;
+        List<Double> arrayDeSaltos = new ArrayList<Double>();
+        scanner = new Scanner(System.in);
+        System.out.println("A continuación se le solicitará un número y se mostrarán los números"+
+                " desde este hasta 1000 en saltos de 2");
+        System.out.println("Ingrese el número desde donde se iniciará: ");
+        try {
+            numeroInicioSaltos = scanner.nextDouble();
+        }
+        catch (Exception e){
+            System.out.println("Por favor ingrese un número válido");
+            mostrarNumerosEnSaltosDeDos();
+        }
+        while (numeroInicioSaltos>1000){
+            System.out.println("Por favor ingrese un número menor a 1000");
+            mostrarNumerosEnSaltosDeDos();
+        }
+        for (double i = numeroInicioSaltos; i <= 1000; i=i+2) {
+            arrayDeSaltos.add(i);
+        }
+        //System.out.println(arrayDeSaltos);
+        return arrayDeSaltos;
+
+    }
 }
